@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "dirt_cheat:enchants_for_boots"
+        }
+      }
+    },
+    "rewards": {
+      "function": "dirt_cheat:enchants_for_boots"
+    }
+  }
+  

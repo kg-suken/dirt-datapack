@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+          "item": "minecraft:dirt"
+      },
+      {
+          "item": "minecraft:enchanted_book"
+      },
+      {
+          "item": "minecraft:bow"
+      }
+  ],
+  "result": {
+      "item": "minecraft:chest",
+      "count": 1
+  }
+}

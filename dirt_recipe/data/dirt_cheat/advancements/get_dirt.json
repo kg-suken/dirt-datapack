@@ -1,0 +1,45 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:dirt"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "recipes": [
+        "dirt_cheat:diamond",
+        "dirt_cheat:emerald",
+        "dirt_cheat:gold",
+        "dirt_cheat:blazerod",
+        "dirt_cheat:enderpearl",
+        "dirt_cheat:endportal",
+        "dirt_cheat:gapple",
+        "dirt_cheat:iron",
+        "dirt_cheat:netherite",
+        "dirt_cheat:obsidian",
+        "dirt_cheat:template",
+        "dirt_cheat:totem",
+        "dirt_cheat:book",
+        "dirt_cheat:enchants_for_sword",
+        "dirt_cheat:enchanted_book",
+        "dirt_cheat:enchants_for_axe",
+        "dirt_cheat:enchants_for_pickaxe_fortune",
+        "dirt_cheat:enchants_for_pickaxe_silk_touch",
+        "dirt_cheat:enchants_for_shovel",
+        "dirt_cheat:enchants_for_bow",
+        "dirt_cheat:enchants_for_helmet",
+        "dirt_cheat:enchants_for_chestplate",
+        "dirt_cheat:enchants_for_leggings",
+        "dirt_cheat:enchants_for_boots"
+      ]
+    }
+  }
+  
