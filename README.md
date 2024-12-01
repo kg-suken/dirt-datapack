@@ -2,6 +2,13 @@
 本当にそれだけのデータパックです。
 modよりかはできることは劣りますし、loottableなどは一切改変していません。レシピだけ追加してます。対応バージョンは1.20.3と1.20.4です。
 
+---
+## 例
+![スクリーンショット 2024-12-01 211427](https://github.com/user-attachments/assets/e9bee472-d5d0-4710-8d84-ea45e1a5405d)
+![スクリーンショット 2024-12-01 211524](https://github.com/user-attachments/assets/40b2293c-353b-40d6-8782-c0f01a04c042)
+
+
+
 ## 制作
 **Pencil**
 
